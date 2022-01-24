@@ -16,7 +16,7 @@ git clone git@github.com:coffmanjrp/next-instagram-clone.git
 
 Or download the zip file.
 
-2. Run follow command to install the dependencies.
+2. Run following command to install the dependencies.
 
 ```
 npm install
