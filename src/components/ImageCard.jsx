@@ -1,6 +1,6 @@
-import Tag from './Tag';
+import { Tag } from '.';
 
-const Card = ({ image }) => {
+const ImageCard = ({ image }) => {
   const tags = image.tags.split(', ');
 
   return (
@@ -31,4 +31,4 @@ const Card = ({ image }) => {
   );
 };
 
-export default Card;
+export default ImageCard;
