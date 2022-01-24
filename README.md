@@ -48,3 +48,8 @@ yarn start
 ```
 
 Enjoy!
+
+## Stacks
+
+- [React](https://reactjs.org/)
+- [Tailwindcss](https://tailwindcss.com/)
