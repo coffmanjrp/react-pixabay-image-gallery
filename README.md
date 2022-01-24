@@ -8,7 +8,7 @@ An image gallery for the Pixabay API builds with React.
 
 ## How to start
 
-Clone the repository.
+1. Clone this repository.
 
 ```
 git clone git@github.com:coffmanjrp/next-instagram-clone.git
@@ -16,7 +16,7 @@ git clone git@github.com:coffmanjrp/next-instagram-clone.git
 
 Or download the zip file.
 
-Run follow command to install the dependencies.
+2. Run follow command to install the dependencies.
 
 ```
 npm install
@@ -26,13 +26,17 @@ npm install
 yarn
 ```
 
-Set your Pixabay API key to the environment variable.
+3. Set your Pixabay API key to the environment variable.
 
-```.env.local
+example:
+
+```
+# .env.local file
+
 REACT_APP_PIXABAY_API_KEY=YOUR_PIXABAY_API_KEY
 ```
 
-And you can start localhost by
+4. And you can start localhost by
 
 ```
 npm start
