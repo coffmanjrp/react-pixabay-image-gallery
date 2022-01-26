@@ -11,7 +11,7 @@ An image gallery for the Pixabay API builds with React.
 1. Clone this repository.
 
 ```
-git clone git@github.com:coffmanjrp/next-instagram-clone.git
+git clone git@github.com:coffmanjrp/react-pixabay-image-gallery.git
 ```
 
 Or download the zip file.
@@ -20,9 +20,7 @@ Or download the zip file.
 
 ```
 npm install
-
 # or
-
 yarn
 ```
 
@@ -40,16 +38,13 @@ REACT_APP_PIXABAY_API_KEY=YOUR_PIXABAY_API_KEY
 
 ```
 npm start
-
 # or
-
 yarn start
-
 ```
 
 Enjoy!
 
-## Stacks
+## Stack
 
 - [React](https://reactjs.org/)
 - [Tailwindcss](https://tailwindcss.com/)
